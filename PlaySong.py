@@ -9,5 +9,5 @@ def playSong():
         audio = r.listen(source)
         text = r.recognize_google(audio)
         sp.alexis(text)
-        song=text.replace('hello deep','')
+        song=text.replace('hello newton','')
         hy.playonyt(song)
