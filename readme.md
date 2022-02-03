@@ -23,6 +23,8 @@ pip install webbrowser
 3) search web
 4) find location
 ```
+![image](https://user-images.githubusercontent.com/97884409/152349675-ebc24518-266c-4978-b2c7-de5d06c9e275.png)
+
 ## 1) For Terminal
 ```bash
 1) 'change directory to <directoryName>'
