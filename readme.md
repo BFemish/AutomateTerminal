@@ -65,6 +65,9 @@ User = '...'
 Newton = 'what do you want to search for...'
 User = '...'
 ```
+![image](https://user-images.githubusercontent.com/97884409/152360220-9171c187-5314-46ff-8dc7-3e57050679bd.png)
+![image](https://user-images.githubusercontent.com/97884409/152360048-47e888a4-296f-4a67-b7c4-221da0aa57f7.png)
+
 ## 4) find location
 ```bash
 Newton = 'Which location do you want to search...'
