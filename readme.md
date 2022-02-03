@@ -58,6 +58,8 @@ pip install webbrowser
 Alex = 'speak the song that you like most...'
 User = '...'
 ```
+![image](https://user-images.githubusercontent.com/97884409/152358282-432908ee-cd13-4485-868f-564c1b93da88.png)
+![image](https://user-images.githubusercontent.com/97884409/152358291-af58cf44-af10-4982-9c11-e1fb2e980303.png)
 ## 3) Web Searching
 ```bash
 Alex = 'what do you want to search for...'
