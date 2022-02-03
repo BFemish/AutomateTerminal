@@ -18,10 +18,10 @@ pip install webbrowser
 # Voice command
 ## 0) Choose commands
 ```bash 
-    1) terminal
-    2) play music
-    3) search web
-    4) find location
+1) terminal
+2) play music
+3) search web
+4) find location
 ```
 ## 1) For Terminal
 ```bash
