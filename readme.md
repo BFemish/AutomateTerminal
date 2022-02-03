@@ -49,6 +49,10 @@ pip install webbrowser
 20) 'show directory', --> this is a "ls " commands
 
 ```
+![image](https://user-images.githubusercontent.com/71899603/152358944-e75940a3-1e5a-4d73-80b6-83fc064549d4.png)
+![image](https://user-images.githubusercontent.com/71899603/152358980-20686c99-dd3e-49e5-a857-33acb59758aa.png)
+![image](https://user-images.githubusercontent.com/71899603/152359007-ae16c152-359d-438e-b828-65caec1edc52.png)
+
 ## 2) Play Music
 ```bash
 Alex = 'speak the song that you like most...'
