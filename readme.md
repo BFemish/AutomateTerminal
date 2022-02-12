@@ -2,7 +2,7 @@
 
 This is a automated terminal which takes a voice commands from user and perform the task.
 
-here is the project link : https://youtu.be/q2ZVndN1yxo
+here is the project video link : https://youtu.be/q2ZVndN1yxo
 
 ## Required packages
 
