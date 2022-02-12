@@ -2,6 +2,8 @@
 
 This is a automated terminal which takes a voice commands from user and perform the task.
 
+here is the project link : https://youtu.be/q2ZVndN1yxo
+
 ## Required packages
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
@@ -76,9 +78,7 @@ User = '...'
 ![image](https://user-images.githubusercontent.com/71916090/152360791-0576ed35-a7d2-4756-a3a4-9f110ff73faa.png)
 ![image](https://user-images.githubusercontent.com/71916090/152360835-4bc95992-478e-4a11-a1ce-96dd573c4efe.png)
 
-## 5) video for project
 
-      https://youtu.be/q2ZVndN1yxo
   
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
